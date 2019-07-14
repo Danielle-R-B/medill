@@ -1,0 +1,14 @@
+.text{
+  color: red;
+}
+#second{
+  color: blue;
+}
+
+.text:hover {
+  color: green;
+}
+body {
+  background-color: #fdebe3;
+  font-family: "Barriecito";
+}
